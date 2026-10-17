@@ -45,6 +45,5 @@ Much of my research was done using AI, the workflow was simple. Paste the questi
 
 ## NOTE.
 I have only solved two problem statements as it was hard for me to get accommodated with the language since this was my first project in python. I wanted to put emphasis on learning what i've given nicely instead of just finishing the project. If needed, and shortlisted, i will submit the third problem statement in a given deadline after the interview. 
-I will be sincerely thankful if you will consider this.
 
 *Thankyou for reading.*
